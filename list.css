@@ -1,0 +1,13 @@
+      @charset "UTF-8";
+
+/*set the styles for the food and drink menu items*/
+      dt {
+           margin-top: 10px;
+           margin-bottom: 10px;
+           font-weight: bold;
+      }
+      dd {
+           margin-top: 5px;
+           margin-bottom: 5px; 
+           font-size: small;
+      }
